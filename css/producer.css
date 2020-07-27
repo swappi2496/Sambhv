@@ -1,0 +1,38 @@
+
+.Sponge {
+  width: 640px;
+  height: 642px;
+  object-fit: contain;
+}
+
+.Sponge-iron {
+  width: 412px;
+  height: 71px;
+  object-fit: contain;
+  font-family: Raleway;
+  font-size: 61px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+
+.Raw-Materials {
+  width: 160px;
+  height: 24px;
+  object-fit: contain;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0a2244;
+}
+
